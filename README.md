@@ -7,7 +7,7 @@
 
 **Dataset:** <a href="https://www.kaggle.com/datasets/nishan192/letterrecognition-using-svm">Kaggle</a>, <a href="https://archive.ics.uci.edu/dataset/59/letter+recognition">UCI Machine Learning</a>
 
-**Notebook:**
+**Notebook:** [Link](https://github.com/Kmohamedalie/Letter_Recognition/tree/master/Notebook)
 
 ## Additional Information
 
