@@ -7,7 +7,7 @@
 
 **Dataset:** <a href="https://www.kaggle.com/datasets/nishan192/letterrecognition-using-svm">Kaggle</a>, <a href="https://archive.ics.uci.edu/dataset/59/letter+recognition">UCI Machine Learning</a>
 
-**Notebook:** [Link](https://github.com/Kmohamedalie/Letter_Recognition/tree/master/Notebook)
+**Complete JupyterNotebook:** [Link](https://github.com/Kmohamedalie/Letter_Recognition/tree/master/Notebook)
 
 **Achieved metrics:** f1-score, accuracy  93.87%
 
